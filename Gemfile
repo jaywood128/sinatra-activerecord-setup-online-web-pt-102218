@@ -12,7 +12,7 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'tux'
-  
+
 
 end
 
